@@ -19,6 +19,14 @@ This problem is popular in machine learning because it teaches all core concepts
 
 ---
 
+## **Screenshot**
+
+![alt text](https://raw.githubusercontent.com/Sahil-Shrivas/CNN_Image_Classification-Project/refs/heads/main/Screenshot%202025-12-18%20203620.png)
+![alt text](https://raw.githubusercontent.com/Sahil-Shrivas/CNN_Image_Classification-Project/refs/heads/main/Screenshot%202025-12-18%20203634.png)
+![alt text](https://raw.githubusercontent.com/Sahil-Shrivas/CNN_Image_Classification-Project/refs/heads/main/Screenshot%202025-12-18%20203651.png)
+
+---
+
 # 📘 **Key Concepts Explained**
 
 Below are important keywords used throughout this project:
@@ -145,3 +153,4 @@ cd CatVSDog-Image-Classification-Project
 ## 📬 Contact
 👤 **Sahil Shrivas**  
 🔗 GitHub: https://github.com/Sahil-Shrivas
+
